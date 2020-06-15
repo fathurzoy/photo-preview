@@ -11,6 +11,5 @@ submitButton.addEventListener("click",() => {
     reader.onload = (e) => {
         box.src = e.target.result;
     }
-    //lupa lagi bjirr
     
 });
